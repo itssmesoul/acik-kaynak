@@ -1,0 +1,6 @@
+{
+  "name": "WEBTE Açık Kaynaklar",
+  "description": "Kamu malı ve serbest lisanslı video kaynakları",
+  "manifestVersion": 1,
+  "pluginLists": ["plugins.json"]
+}

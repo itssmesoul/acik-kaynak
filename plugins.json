@@ -1,0 +1,13 @@
+[
+  {
+    "internalName": "nasa-video",
+    "name": "NASA Videoları",
+    "description": "NASA Image and Video Library — kamu malı görüntüler",
+    "url": "NasaVideo/NasaVideo.js",
+    "version": 1,
+    "status": 1,
+    "language": "en",
+    "authors": ["WEBTE Yazılım"],
+    "tvTypes": ["Documentary"]
+  }
+]
